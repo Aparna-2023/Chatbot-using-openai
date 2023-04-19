@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background:linear-gradient(to bottom,rgba(13, 250, 13, 0.075),rgba(108, 224, 240, 0.233));
+}
